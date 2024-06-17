@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\bin\Debug\net8.0\Inheritance_methodoverriding.exe
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\bin\Debug\net8.0\Inheritance_methodoverriding.deps.json
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\bin\Debug\net8.0\Inheritance_methodoverriding.runtimeconfig.json
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\bin\Debug\net8.0\Inheritance_methodoverriding.dll
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\bin\Debug\net8.0\Inheritance_methodoverriding.pdb
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.AssemblyInfo.cs
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.sourcelink.json
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.dll
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\refint\Inheritance_methodoverriding.dll
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.pdb
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\Inheritance_methodoverriding.genruntimeconfig.cache
+C:\Users\dell\source\repos\dcit318-assignment-2-10974643\Inheritance_methodoverriding\obj\Debug\net8.0\ref\Inheritance_methodoverriding.dll
